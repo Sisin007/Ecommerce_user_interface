@@ -1,4 +1,4 @@
-# ecommerce_ui
+# ecommerce_user_interface
 
 A new Flutter project.
 
